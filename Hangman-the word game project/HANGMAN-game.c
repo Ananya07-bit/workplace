@@ -42,7 +42,7 @@ void drawHangman(int lives)
             printf("\n +---+\n");
             printf(" |   |\n");
             printf(" O   |\n");
-            printf("/|   |\n");
+            printf("/| \\  |\n");
             printf("     |\n");
             printf("     |\n");
             printf("=========\n");
@@ -52,7 +52,7 @@ void drawHangman(int lives)
             printf("\n +---+\n");
             printf(" |   |\n");
             printf(" O   |\n");
-            printf("/|\ |\n");
+            printf("/|\\ |\n");
             printf("     |\n");
             printf("     |\n");
             printf("=========\n");
@@ -62,7 +62,7 @@ void drawHangman(int lives)
             printf("\n +---+\n");
             printf(" |   |\n");
             printf(" O   |\n");
-            printf("/|\ |\n");
+            printf("/|\\ |\n");
             printf("/    |\n");
             printf("     |\n");
             printf("=========\n");
@@ -72,7 +72,7 @@ void drawHangman(int lives)
             printf("\n +---+\n");
             printf(" |   |\n");
             printf(" O   |\n");
-            printf("/|\ |\n");
+            printf("/|\\ |\n");
             printf("/ \\  |\n");
             printf("     |\n");
             printf("=========\n");
